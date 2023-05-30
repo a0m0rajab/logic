@@ -811,7 +811,7 @@ export default function IndexPage() {
           examples.
         </p>
       </div>
-      <div className="flex gap-4">{/* user the cardList */ cardList}</div>
+      <div className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6">{/* user the cardList */ cardList}</div>
     </section>
   )
 }
