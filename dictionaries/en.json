@@ -1,5 +1,6 @@
 {
-  "biases": "Biases",
+  "biases": "Logical Biases",
+  "description": "A list of cognitive biases and the translation of it with few examples.",
   "cards": [
     {
       "name": "anchoring",

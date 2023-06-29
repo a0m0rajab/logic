@@ -1,12 +1,13 @@
 {
-  "biases": "Biases",
+  "biases": "انحيازات فكرية",
+  "description": "قائمة بمجموعة من الانحيازات الفكرية مع أمثلة لكل منها",
   "cards": [
     {
       "name": "anchoring",
-      "title": "anchoring",
+      "title": "الإرساء أو المرجعية",
       "slug": "anchoring",
       "head": "The first thing you judge influences your judgment of all that follows.",
-      "first": "The first thing you judge influences your judgment of all that follows.",
+      "first": "أول حكم تتخذه يؤثر على باقي أحكامك",
       "description": "Human minds are associative in nature, so the order in which we receive information helps determine the course of our judgments and perceptions. For instance, the first price offered for a used car sets an ‘anchor’ price which will influence how reasonable or unreasonable a counter-offer might seem. Even if we feel like an initial price is far too high, it can make a slightly less-than-reasonable offer seem entirely reasonable in contrast to the anchor price.",
       "example": "Be especially mindful of this bias during financial negotiations such as houses, cars, and salaries. The initial price offered has proven to have a significant effect.",
       "pageTitle": "Your bias is anchoring",
@@ -28,10 +29,10 @@
     },
     {
       "name": "the-sunk-cost-fallacy",
-      "title": "the sunk cost fallacy",
+      "title": "مغالطة التكلفة المغمورة (الرمال المتحركة)",
       "slug": "the-sunk-cost-fallacy",
       "head": "You irrationally cling to things that have already cost you something.",
-      "first": "You irrationally cling to things that have already cost you something.",
+      "first": "أنت بشكل غير منطقي تلتزم بالأمور المكلفة لك.",
       "description": "When we've invested our time, money, or emotion into something, it hurts us to let it go. This aversion to pain can distort our better judgment and cause us to make unwise investments. A sunk cost means that we can't recover it, so it's rational to disregard the cost when evaluating. For instance, if you've spent money on a meal but you only feel like eating half of it, it's irrational to continue to stuff your face just because 'you've already paid for it'; especially considering the fact that you're wasting actual time doing so.",
       "example": "To regain objectivity, ask yourself: had I not already invested something, would I still do so now? What would I counsel a friend to do if they were in the same situation?",
       "pageTitle": "Your bias is the sunk cost fallacy",
