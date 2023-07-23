@@ -79,9 +79,9 @@
     },
     {
       "name": "the-curse-of-knowledge",
-      "title": "the curse of knowledge",
+      "title": "لعنة المعرفة",
       "slug": "the-curse-of-knowledge",
-      "head": "Once you understand something you presume it to be obvious to everyone.",
+      "head": "حين تفهم أمر ما تعتقد أن الجميع يفهمه مثلك!",
       "first": "Once you understand something you presume it to be obvious to everyone.",
       "description": "Things makes sense once they make sense, so it can be hard to remember why they didn't. We build complex networks of understanding and forget how intricate the path to our available knowledge really is. This bias is closely related to the hindsight bias wherein you will tend to believe that an event was predictable all along once it has occurred. We have difficulty reconstructing our own prior mental states of confusion and ignorance once we have clear knowledge.",
       "example": "When teaching someone something new, go slow and explain like they're ten years old (without being patronizing). Repeat key points and facilitate active practice to help embed knowledge.",
@@ -104,9 +104,9 @@
     },
     {
       "name": "confirmation-bias",
-      "title": "confirmation bias",
+      "title": "انحياز التوفيق",
       "slug": "confirmation-bias",
-      "head": "You favor things that confirm your existing beliefs.",
+      "head": "أنت تحب الأشباء التي تتبع معتقداتك الحالية",
       "first": "You favor things that confirm your existing beliefs.",
       "description": "We are primed to see and agree with ideas that fit our preconceptions, and to ignore and dismiss information that conflicts with them. You could say that this is the mother of all biases, as it affects so much of our thinking through motivated reasoning. To help counteract its influence we ought to presume ourselves wrong until proven right.",
       "example": "Think of your ideas and beliefs as software you're actively trying to find problems with rather than things to be defended. \"The first principle is that you must not fool yourself – and you are the easiest person to fool.\" \u0003- Richard Feynman",
