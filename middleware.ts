@@ -5,7 +5,7 @@ import Negotiator from 'negotiator'
 let locales = ['en', 'ar']
 
 // Get the preferred locale, similar to above or using a library
-function getLocale(request) {
+function getLocale(request: { headers: Negotiator.Headers }) {
     let languages = new Negotiator(request).languages()
     // check if array of languages is [ "*" ]
     // if so, it means that the client accepts any language
@@ -18,7 +18,7 @@ function getLocale(request) {
     return match(languages, locales, defaultLocale) 
 }
 
-export function middleware(request) {
+export function middleware(request : {headers: Negotiator.Headers, nextUrl: URL, url: URL}) {
     // Check if there is any supported locale in the pathname
     const pathname = request.nextUrl.pathname
     const pathnameIsMissingLocale = locales.every(

@@ -12,8 +12,13 @@ import { Button, buttonVariants } from "@/components/ui/button"
 import Link from "next/link"
 import { getDictionary } from '../../dictionaries/dictionaries'
 
+interface IndexPageProps {
+  params: {
+    lang: string
+  }
+ }
 
-export default async function IndexPage({ params: { lang } }) {
+export default async function IndexPage({ params: { lang } }: IndexPageProps) {
   const dictionary = await getDictionary(lang)
 
   // map the array and return the card component
